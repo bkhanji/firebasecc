@@ -1,1 +1,36 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>491481069356-87m4vp25hq38gma8idr7d7p1drmm9pbu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.491481069356-87m4vp25hq38gma8idr7d7p1drmm9pbu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD7U5mmAvCKNhYgPGzeCKf2QyDNBrUmdCE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>491481069356</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ourjouwan.jeid</string>
+	<key>PROJECT_ID</key>
+	<string>jeid-246306</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jeid-246306.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:491481069356:ios:4bff92e45b5f056f</string>
+	<key>DATABASE_URL</key>
+	<string>https://jeid-246306.firebaseio.com</string>
+</dict>
+</plist>
